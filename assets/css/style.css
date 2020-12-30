@@ -1,4 +1,12 @@
+body{
+    background-image: url("https://image.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg")
+}
+
 /* NavBar styling */
+.container-fluid{
+    background-color: #f7f5e9;
+}
+
 .nav-link{
     color:grey;
 }
@@ -15,7 +23,7 @@
 }
 
 .col-9{
-    background-color: greenyellow;
+    background-color: #f0e7bb;
     padding-top: 3%;
 }
 
@@ -31,9 +39,6 @@
 .img{
     margin-bottom:2%;
     margin-right:2%;
-    /* display: block;
-    max-width: 40%;
-    height: auto; */
 }
 
 /* Contact form styling */
