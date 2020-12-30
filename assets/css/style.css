@@ -1,3 +1,4 @@
+/* NavBar styling */
 .nav-link{
     color:grey;
 }
@@ -7,6 +8,7 @@
     font-weight: bold;
 }
 
+/* Container styling */
 .container{
     margin-left: 3%;
     margin-top: 5%;
@@ -14,13 +16,20 @@
 
 .col-9{
     background-color: greenyellow;
+    padding-top: 3%;
 }
 
+/* Image Styling */
+.img{
+    margin:2%;
+}
+
+/* Contact form styling */
 .mb-3{
     padding-left: 3%;
     padding-right:15%;
 }
 
-.img{
-    margin:2%;
+.btn{
+    margin-bottom: 3%;
 }
