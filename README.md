@@ -29,9 +29,9 @@ The HTML from each page was validated using a validation service.
 
 ## Installation
 
-To install, pull repository and open html file in browser. Repository can be found here: [Personal Responsive Portfolio](https://github.com/JackieHodges/Responsive-Portfolio)
+To install, pull repository and open html file in browser. Repository can be found here: [Personal Responsive Portfolio Repo](https://github.com/JackieHodges/Responsive-Portfolio)
 
-Otherwise, the github page can be found here: [Personal Responsive Portfolio](https://jackiehodges.github.io/Responsive-Portfolio/)
+Otherwise, the deployed page can be found here: [Personal Responsive Portfolio Page](https://jackiehodges.github.io/Responsive-Portfolio/)
 
 
 ## Usage
