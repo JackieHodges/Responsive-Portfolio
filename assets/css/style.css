@@ -1,3 +1,4 @@
+/* Background image */
 body{
     background-image: url("https://image.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg")
 }
@@ -5,6 +6,11 @@ body{
 /* NavBar styling */
 .container-fluid{
     background-color:#fcfbf5;
+}
+
+.navbar-brand {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 40px;
 }
 
 .nav-link{
@@ -17,6 +23,11 @@ body{
 }
 
 /* Container styling */
+
+main{
+    font-family: 'Roboto', sans-serif;
+}
+
 .container{
     margin-left: 3%;
     margin-top: 5%;
@@ -35,6 +46,10 @@ body{
     height: auto;
 }
 
+h2, h3{
+    font-weight:bold;
+}
+
 /* Porfolio image Styling */
 .img{
     margin-bottom:2%;
@@ -49,4 +64,8 @@ body{
 
 .btn{
     margin-bottom: 3%;
+}
+
+.form-label{
+    font-family: 'Roboto', sans-serif;
 }
