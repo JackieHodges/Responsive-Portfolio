@@ -19,13 +19,21 @@
     padding-top: 3%;
 }
 
-/* Image Styling */
-.img{
+.profile-img{
     margin-bottom:2%;
     margin-right:2%;
     display: block;
     max-width: 40%;
     height: auto;
+}
+
+/* Porfolio image Styling */
+.img{
+    margin-bottom:2%;
+    margin-right:2%;
+    /* display: block;
+    max-width: 40%;
+    height: auto; */
 }
 
 /* Contact form styling */
