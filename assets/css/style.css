@@ -50,6 +50,13 @@ h2, h3{
     font-weight:bold;
 }
 
+
+/* Footer styling */
+footer{
+    margin-top: 30px;
+    font-size: 5px;
+}
+
 /* Porfolio image Styling */
 .img{
     margin-bottom:2%;
