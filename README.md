@@ -37,3 +37,10 @@ Otherwise, the deployed page can be found here: [Personal Responsive Portfolio P
 ## Usage
 
 Below are screenshots of the responsiveness:
+
+
+![screenshot 1](assets/images/screenshot1.png)
+
+
+
+![screenshot 2](assets/images/screenshot2.png)
