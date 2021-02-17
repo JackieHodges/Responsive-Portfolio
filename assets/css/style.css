@@ -58,9 +58,11 @@ footer{
 }
 
 /* Porfolio image Styling */
-.img{
+.img-thumbnail{
     margin-bottom:2%;
     margin-right:2%;
+    max-width: 350px;
+    max-height: 350px;
 }
 
 /* Contact form styling */
